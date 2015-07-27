@@ -1,1 +1,12 @@
-github related
+1. sudo apt-get install zsh git
+2. wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh
+	which zsh
+	chsh -s PATH
+3. l ~/.ssh
+	if not exits id_dsa.pub
+		ssh-keygen -t rsa -C "caqeye@gmail.com"
+	eval "$(ssh-agent -s)"
+	ssh-add ~/.ssh/id_rsa
+	cat ~/.ssh/id_rsa.pub
+		"copy to github ssh key"
+		
