@@ -2,6 +2,7 @@
 2. wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh
 	which zsh
 	chsh -s PATH
+	
 3. l ~/.ssh
 	if not exits id_dsa.pub
 		ssh-keygen -t rsa -C "caqeye@gmail.com"
