@@ -1,4 +1,4 @@
-1. sudo apt-get install zsh git
+1. sudo apt-get install zsh git nautilus 
 2. wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh
 	which zsh
 	chsh -s PATH
@@ -11,3 +11,7 @@
 	cat ~/.ssh/id_rsa.pub
 		"copy to github ssh key"
 		
+
+sudo apt-get install 
+
+[jianguoyun](https://jianguoyun.com/s/downloads/linux)
