@@ -14,4 +14,4 @@
 
 sudo apt-get install 
 
-[jianguoyun](https://jianguoyun.com/s/downloads/linux)
+jianguoyun: https://jianguoyun.com/s/downloads/linux
