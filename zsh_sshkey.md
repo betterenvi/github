@@ -14,4 +14,5 @@ cat ~/.ssh/id_rsa.pub # "copy to github ssh key"
 
 sudo apt-get install 
 ```
-jianguoyun: https://jianguoyun.com/s/downloads/linux
+
+jianguoyun(NutStore): https://jianguoyun.com/s/downloads/linux
